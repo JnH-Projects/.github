@@ -9,7 +9,7 @@
 
 ### Minecraft Plugins
 
-<img src="https://www.spigotmc.org/data/resource_icons/102/102275.jpg?1653755169" style="width: 16px; height:16px" /> <a href="https://www.spigotmc.org/resources/102275/" style="font-size: 24px;" target="_blank">Custom Enchantments 3</a> - Minecraft Server Plugin [1.16 - 1.21.4]
+<img src="https://www.spigotmc.org/data/resource_icons/102/102275.jpg?1653755169" style="width: 16px; height:16px" /> <a href="https://www.spigotmc.org/resources/102275/" style="font-size: 24px;" target="_blank">Custom Enchantments 3</a> - Minecraft Server Plugin [1.16 - 1.21.5]
 <br />
 <img src="https://www.spigotmc.org/data/resource_icons/89/89793.jpg?1614996994" style="width: 16px; height:16px" /> <a href="https://www.spigotmc.org/resources/89793/" style="font-size: 24px;" target="_blank">Custom Enchantments 2</a> - Minecraft Server Plugin [1.16 - 1.19]
 <br />
@@ -19,4 +19,4 @@
 
 ### Minecraft Addons
 
-<img src="https://github.com/JnH-Projects/Strawberry-Crop-Minecraft-Addon/blob/main/BP/pack_icon.png" style="width: 16px; height:16px" /> <a href="https://github.com/JnH-Projects/Strawberry-Crop-Minecraft-Addon" style="font-size: 24px;" target="_blank">Strawberry Crop-Minecraft Addon</a> - Minecraft Bedrock Addon [1.21.70]
+<img src="https://github.com/JnH-Projects/Strawberry-Crop-Minecraft-Addon/blob/main/BP/pack_icon.png" style="width: 16px; height:16px" /> <a href="https://github.com/JnH-Projects/Strawberry-Crop-Minecraft-Addon" style="font-size: 24px;" target="_blank">Strawberry Crop Minecraft Addon</a> - Minecraft [1.21.70]
