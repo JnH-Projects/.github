@@ -16,3 +16,7 @@
 <img src="https://www.spigotmc.org/data/resource_icons/83/83754.jpg?1614043702" style="width: 16px; height:16px" /> <a href="https://www.spigotmc.org/resources/83754/" style="font-size: 24px;" target="_blank">Custom Enchantments 1</a> - Minecraft Server Plugin [1.16]
 <br />
 <img src="https://www.spigotmc.org/data/resource_icons/96/96466.jpg?1632648500" style="width: 16px; height:16px" /> <a href="https://www.spigotmc.org/resources/96466/" style="font-size: 24px;" target="_blank">Kumandra's Economy</a> - Minecraft Server Plugin [1.16-1.17]
+
+### Minecraft Addons
+
+<img src="https://github.com/JnH-Projects/Strawberry-Crop-Minecraft-Addon/blob/main/BP/pack_icon.png" style="width: 16px; height:16px" /> <a href="https://github.com/JnH-Projects/Strawberry-Crop-Minecraft-Addon" style="font-size: 24px;" target="_blank">Strawberry Crop-Minecraft Addon</a> - Minecraft Bedrock Addon [1.21.70]
