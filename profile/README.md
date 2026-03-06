@@ -1,14 +1,10 @@
-<a href="https://jhprojects.vercel.app/">
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/163504700?s=200&v=4" width="120" />
-  <h1><strong>JH Projects</strong></h1>
+  <h1><strong><a href="https://jhprojects.vercel.app/">JH Projects</strong></a></h1>
   <p>Indie Game Studio • Creative Tools • Minecraft Development</p>
   <p>A small but passionate indie team building creative, community‑driven games and tools. <!--We focus on sandbox experiences, expressive 2D worlds, and utility libraries that empower developers and players alike.-->
 </p>
 </div>
-
-</a>
 
 ---
 
