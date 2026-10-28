@@ -8,6 +8,23 @@
   <a href="https://www.jhprojects.dev/"><img src="https://www.jhprojects.dev/og/jhprojects.png" width="640" alt="JHProjects, Minecraft plugins and mods by Jaymar921" /></a>
 </div>
 
+## 🗂️ Projects
+
+Click any project to open its page on the site.
+
+| | Project | What it is | |
+|:-:|---|---|---|
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/custom-enchantments-3.png?raw=true" width="32" /> | **[Custom Enchantments 3](https://www.jhprojects.dev/customenchantments3)** | 164 enchantments, 154 treasures, three classes and a player-driven economy. | Premium, free Lite |
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/epic-mobs-rework.png?raw=true" width="32" /> | **[Epic Mobs Rework](https://www.jhprojects.dev/epic-mobs-rework)** | Custom mobs from any vanilla entity, bosses with phases, companions and raids. | Premium, free Lite |
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/farm-tales.png?raw=true" width="32" /> | **[Farm Tales](https://www.jhprojects.dev/farm-tales)** | Farming where how you tend a crop decides what you harvest. | Premium, free Lite |
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/fish-tales.png?raw=true" width="32" /> | **[Fish Tales](https://www.jhprojects.dev/fish-tales)** | Server-wide fishing contests in water and on Nether lava, with 100 fish to catch. | Premium, free Lite |
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/epic-lairs.png?raw=true" width="32" /> | **[Epic Lairs](https://www.jhprojects.dev/epic-lairs)** | Dungeons built in your own world that reset themselves after every run. | Premium, free Lite |
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/kumandras-economy.png?raw=true" width="32" /> | **[Kumandra's Economy](https://www.jhprojects.dev/kumandras-economy)** | A full server economy in one jar: jobs, trading, delivery, shops and quests. | Free plugin |
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/mcheli-rework.png?raw=true" width="32" /> | **[MCHeli Rework](https://www.jhprojects.dev/mcheli-rework)** | The MCHeli helicopter mod, rebuilt for modern Minecraft on Forge. | Forge mod, fan project |
+| <img src="https://github.com/JnH-Projects/.github/blob/main/profile/assets/2dgraphic-utils.png?raw=true" width="32" /> | **[2D Graphic Utility](https://www.jhprojects.dev/2dgraphic-utils)** | A small canvas library for 2D web games: sprites, animation, camera and culling. | npm library |
+
+<sub>Older projects live in the <a href="https://www.jhprojects.dev/#archive">archive</a>.</sub>
+
 ---
 <!--
 ## 🎮 Current Project
